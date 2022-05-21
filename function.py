@@ -9,9 +9,9 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 
 
-api_id = 2293948
-api_hash = "1899ee66613bd97033363fad76cb01bf"
-bot_token = "5296105168:AAFFL4H-8SmFxE5mOx499QHTyAIJKpFiUGk"
+api_id = 888888888
+api_hash = "999999999"
+bot_token = "11111111"
 
 app = Client("test", bot_token=bot_token, api_id=api_id, api_hash=api_hash)
 
